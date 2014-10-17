@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: #444;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+#main {
+  background: #eee;
+  border-radius: 5px;
+  bottom: 0;
+  height: 70%;
+  left: 0;
+  margin: auto;
+  padding: 4% 13%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 70%;
+}
+
+#wrapper {
+  position: relative;
+  height: 100%
+}
+
+#X {
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  box-shadow: 0 1px 3px;
+  border-radius: 50%;
+  background: url('x.png') center center no-repeat #eee;
+}
+
+#content {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-weight: bold;
+}
+
+#bar {
+  border-radius: 5px;
+  height: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 3px #ccc inset;
+}
+
+#load {
+  background: #07f;
+  height: 100%;
+  width: 0%;
+}
