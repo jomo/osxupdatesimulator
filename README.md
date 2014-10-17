@@ -3,8 +3,10 @@
 There is no need to download and install your OS X update on your Mac!  
 You can instantly and safely simulate the OS X installation in your browser.
 
-http://jomo.tv/osxupdatesimulator/
+[http://jomo.tv/osxupdatesimulator/
+![screenshot](screenshot.png)](http://jomo.tv/osxupdatesimulator/)
 
+Pro tip: Click into the page to open in full screen!
 
 # License
 
